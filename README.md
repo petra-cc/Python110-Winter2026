@@ -1,2 +1,2 @@
-# Python110-Winter-2026
+# Python110-Winter2026
 This repository stores the files from my introduction to programing with python course.
